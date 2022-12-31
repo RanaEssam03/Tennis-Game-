@@ -7,4 +7,4 @@ Python -> turtle library
 * Run the source code .
 * The first player moves using up/down bottun .
 * The second player moves using 'w'/'s' bottun .
-* The score appears in the middle of the screen during the .
+* The score appears in the middle of the screen during the game .
