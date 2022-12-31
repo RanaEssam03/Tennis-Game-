@@ -1,5 +1,5 @@
 # Tennis-Game-
-Tennis game GUI version, allows two players to play together 
+Tennis game GUI version for two players
 ## Implemented using 
 Python -> turtle library
 ## How to play?
